@@ -20538,6 +20538,13 @@ html[dir=rtl] .sidebar li>a .caret:before {
 /*# sourceMappingURL=style.css.map */
 
 
+
+
+
+
+/* ================================================================ */
+/* ================================================================== */
+/* -==================================================chat screen */
 .chat-area {
   background-color: white;
   height: calc(100vh - 110px);
