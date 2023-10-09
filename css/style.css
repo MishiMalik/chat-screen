@@ -20655,12 +20655,14 @@ html[dir=rtl] .sidebar li>a .caret:before {
   background-color: #9E6DE0;
   padding: 7px 10px;
   height: 40px;
-  width: 80px;
+  /* width: 80px; */
   border-radius: 4px;
   color: white;
   font-weight: 500;
   font-size: 16px;
   margin-left: 10px;
+  display: flex;
+  align-items: center;
 }
 
 @media only screen and (min-width:1900px) {
